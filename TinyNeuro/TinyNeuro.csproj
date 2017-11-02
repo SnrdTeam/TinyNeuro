@@ -2,13 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
-    <Version>1.0.0</Version>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <VersionPrefix>1.0.0</VersionPrefix>
     <Description>Tiny neural network library based on Accord.Net.</Description>
-    <FileVersion>1.0.0.0</FileVersion>
     <SignAssembly>True</SignAssembly>
     <DelaySign>False</DelaySign>
-	<PublicSign>True</PublicSign>
+	  <PublicSign>True</PublicSign>
     <AssemblyOriginatorKeyFile>Adeptik-Best-public.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
