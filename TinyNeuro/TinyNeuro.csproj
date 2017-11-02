@@ -6,6 +6,10 @@
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <Description>Tiny neural network library based on Accord.Net.</Description>
     <FileVersion>1.0.0.0</FileVersion>
+    <SignAssembly>True</SignAssembly>
+    <DelaySign>False</DelaySign>
+	<PublicSign>True</PublicSign>
+    <AssemblyOriginatorKeyFile>Adeptik-Best-public.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>
